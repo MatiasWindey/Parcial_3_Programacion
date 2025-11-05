@@ -1,0 +1,15 @@
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\bin\Debug\net8.0\Parcial3.deps.json
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\bin\Debug\net8.0\Parcial3.runtimeconfig.json
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\bin\Debug\net8.0\Parcial3.dll
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\bin\Debug\net8.0\Parcial3.pdb
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.AssemblyInfoInputs.cache
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.AssemblyInfo.cs
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.sourcelink.json
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.dll
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\refint\Parcial3.dll
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.pdb
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\Parcial3.genruntimeconfig.cache
+C:\Users\Matt-\Desktop\ParcialProg3\Parcial_3_Programacion\Parcial3\Parcial3\obj\Debug\net8.0\ref\Parcial3.dll
